@@ -65,5 +65,5 @@ APIهای معرفی شده در حال حاضر ترتیب خاصی ندارن�
 * [API فینوتک](https://api.finnotech.ir/) خدمات بانکی بر پایه دو دسته سرویس‌های مبتنی بر کارت و سرویس‌های مبتنی بر حساب بانکی
 * [API آی‌گپ](https://github.com/RooyeKhat-Media/iGap-API) پیام‌رسان ایرانی آی‌گپ
 * [API اول‌مارکت](http://avvalmarket.readthedocs.io/fa/latest/) پرداخت درون برنامه‌ای و خدمات اول مارکت
-
+* [API پرواز و هتل](http://hiholiday.ir/webservice) وب سرویس پرواز و هتل
 </div>
